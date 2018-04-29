@@ -7,4 +7,24 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="PublicPlayground">Public Playground</string>
+    <string name="near">niedaleko domu</string>
+    <string name="royal">Hotel Royal</string>
+    <string name="royal_adres">Jana Matejki 10</string>
+    <string name="zdrowa">Zdrowa Krowa</string>
+    <string name="zdrowa_adres">Raciborska 2</string>
+    <string name="rynek">Town Square</string>
+    <string name="rynek_adres">Rynek 1</string>
+    <string name="radiostacja">Radiostation</string>
+    <string name="radiostacja_adres">Tarnogórska 129</string>
+    <string name="diabelki">Devils Fountain</string>
+    <string name="diabelki_adres">Zwycięstwa 21</string>
+    <string name="palmiarnia">Palm House</string>
+    <string name="palmiarnia_adres">Fredry 6</string>
+    <string name="sushi">Sushi</string>
+    <string name="sushi_adres">Gdzieś 4</string>
+    <string name="mexico">Mexico</string>
+    <string name="cafe_adres">Kawowa 9</string>
+    <string name="cafe">Cafe</string>
+    <string name="mexico_adres">Jakaś 6</string>
 </resources>
